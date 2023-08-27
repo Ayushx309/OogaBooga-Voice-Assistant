@@ -1,0 +1,5 @@
+json
+openai
+pyttsx3
+speech_recognition
+webbrowser
